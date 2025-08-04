@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-pro-thanhtung",
+  "version": "1.0.0",
+  "description": "nodejs pro thanhtung",
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb"
+  ],
+  "homepage": "https://github.com/tungntwork/nodejs-pro#readme",
+  "bugs": {
+    "url": "https://github.com/tungntwork/nodejs-pro/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tungntwork/nodejs-pro.git"
+  },
+  "license": "ISC",
+  "author": {
+    "name": "thanhtung",
+    "email": "tungnguyenthanh710@gmail.com"
+  },
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
